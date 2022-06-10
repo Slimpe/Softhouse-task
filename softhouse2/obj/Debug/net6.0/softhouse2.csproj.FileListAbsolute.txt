@@ -1,0 +1,15 @@
+C:\Users\simon\OneDrive\softhouse2\bin\Debug\net6.0\softhouse2.exe
+C:\Users\simon\OneDrive\softhouse2\bin\Debug\net6.0\softhouse2.deps.json
+C:\Users\simon\OneDrive\softhouse2\bin\Debug\net6.0\softhouse2.runtimeconfig.json
+C:\Users\simon\OneDrive\softhouse2\bin\Debug\net6.0\softhouse2.dll
+C:\Users\simon\OneDrive\softhouse2\bin\Debug\net6.0\softhouse2.pdb
+C:\Users\simon\OneDrive\softhouse2\obj\Debug\net6.0\softhouse2.csproj.AssemblyReference.cache
+C:\Users\simon\OneDrive\softhouse2\obj\Debug\net6.0\softhouse2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\OneDrive\softhouse2\obj\Debug\net6.0\softhouse2.AssemblyInfoInputs.cache
+C:\Users\simon\OneDrive\softhouse2\obj\Debug\net6.0\softhouse2.AssemblyInfo.cs
+C:\Users\simon\OneDrive\softhouse2\obj\Debug\net6.0\softhouse2.csproj.CoreCompileInputs.cache
+C:\Users\simon\OneDrive\softhouse2\obj\Debug\net6.0\softhouse2.dll
+C:\Users\simon\OneDrive\softhouse2\obj\Debug\net6.0\refint\softhouse2.dll
+C:\Users\simon\OneDrive\softhouse2\obj\Debug\net6.0\softhouse2.pdb
+C:\Users\simon\OneDrive\softhouse2\obj\Debug\net6.0\softhouse2.genruntimeconfig.cache
+C:\Users\simon\OneDrive\softhouse2\obj\Debug\net6.0\ref\softhouse2.dll
